@@ -3,16 +3,16 @@
 </a>
 
 <p align="center">
-<a href="https://www.hellorei.com" target="_blank"><img src="https://img.shields.io/badge/hellorei.com-222222.svg?&style=for-the-badge&logo=htmx&logoColor=white" alt="HelloRei"></a>
-<a href="https://www.linkedin.com/in/reiromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-222222.svg?&style=for-the-badge&logo=linkedin&logoColor=007  7B5" alt="linkedin.com/in/reiromero/"></a>
+<a href="https://www.hellorei.com" target="_blank"><img src="https://img.shields.io/badge/web-222222.svg?&style=for-the-badge&logo=htmx&logoColor=white" alt="HelloRei"></a>
 <a href="https://www.startupschool.org/cofounder-matching/candidate/AUJ5W3Nlp" target="_blank"><img src="https://img.shields.io/badge/Y%20Combinator-222222.svg?&style=for-the-badge&logo=ycombinator&logoColor=F0652F" alt="Y Combinator"></a>
+<a href="https://www.linkedin.com/in/reiromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-222222.svg?&style=for-the-badge&logo=linkedin&logoColor=007  7B5" alt="linkedin.com/in/reiromero/"></a>
 <a href="https://gitlab.com/rei3" target="_blank"><img src="https://img.shields.io/badge/GitLab-222222.svg?&style=for-the-badge&logo=gitlab&logoColor=FCA121" alt="GitLab"></a>
 <a href="https://www.twitter.com/Rei_R" target="_blank"><img src="https://img.shields.io/badge/X-222222.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://discord.com/users/277190564271882241" target="_blank"><img src="https://img.shields.io/badge/Discord-222222.svg?&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"></a>
 <a href="https://calendly.com/rei-rm" target="_blank"><img src="https://img.shields.io/badge/Calendly-222222.svg?&style=for-the-badge&logo=calendly&logoColor=006BFF" alt="Calendly"></a>
 </p>
 
-## About me
+## About mes
 
 I'm Rei, a <a href="https://www.ideou.com/blogs/inspiration/how-to-build-a-better-business-through-design#:~:text=Business%20design%20is%20a%20way,the%20consumer%20and%20client%20experience." target="_blank">business designer</a>, software engineer, and product led, constantly building, shipping, and growing digital products, cloud infrastructure, and modern applications. I specialize in creating scalable, high-performance systems, and building profitable businesses around them.
 
