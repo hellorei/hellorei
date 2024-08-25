@@ -1,5 +1,5 @@
 <a href="https://hellorei.com" target="_blank">
-  <img src="/Volumes/Kuro/Projects/personal/hellorei/assets/banner-dark.svg" alt="hellorei.com" style="border-radius: 20px; width: 100%; height: auto; max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/hellorei/hellorei/assets/banner-dark.svg" alt="hellorei.com" style="border-radius: 20px; width: 100%; height: auto; max-width: 100%;">
 </a>
 
 ## About me
