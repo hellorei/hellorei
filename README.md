@@ -1,5 +1,7 @@
+<img src="https://profile-counter.glitch.me/hellorei/count.svg" alt="Visitor count" /> ![Visitors](https://img.shields.io/badge/visitors%20-%23000000.svg?&style=for-the-badge&logo=visitors&logoColor=white)
+
 <a href="https://hellorei.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/hellorei/hellorei/assets/banner-dark.svg" alt="hellorei.com" style="border-radius: 20px; width: 100%; height: auto; max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/hellorei/hellorei/main/assets/banner-dark.svg" alt="hellorei.com" style="border-radius: 20px; width: 100%; height: auto; max-width: 100%;">
 </a>
 
 ## About me
