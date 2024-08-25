@@ -14,22 +14,22 @@
 
     @keyframes pulse {
       0% {
-        scale: 1;
+        scale: 1.5;
         rotate: 0;
       }
       50% {
-        scale: 1.5;
+        scale: 1;
         rotate: 2deg;
       }
       100% {
-        scale: 1;
+        scale: 1.5;
         rotate: 0deg;
       }
     }
 
     .container {
       border-radius: 20px; 
-      background: linear-gradient(-45deg, #e5c890, #e64553, #4f46e5, #a3e635, #94e2d5);
+      background: linear-gradient(-45deg, #e64553, #4f46e5, #e5c890);
       background-size: 400% 400%;
       animation: gradient 25s ease infinite;
 
@@ -59,8 +59,9 @@
       position: absolute;
       top: 0;
       left: 0;
-      animation: pulse 300s ease infinite;
-      opacity: 0.4;
+      animation: pulse 500s ease infinite;
+      opacity: 0.24;
+      -mix-blend-mode: difference;
     }
 
     .dots {

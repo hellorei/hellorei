@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="12" viewBox="0 0 80 12">
+  <style>
+    .canvas {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      align-items: center;
+    }
+    .label {
+      font-family: monospace;
+      font-size: 11px;
+      text-transform: uppercase;
+      color: #636c76;
+      letter-spacing: 1px;
+    }
+    @media (prefers-color-scheme: dark) {
+      .label {
+        color: #8d96a0;
+      }
+    }
+  </style>
+  <foreignObject width="100%" height="100%" >
+    <div xmlns="http://www.w3.org/1999/xhtml" class="canvas">
+      <span class="label">Normally</span>
+    </div>
+  </foreignObject>
+</svg>
