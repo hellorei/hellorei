@@ -12,19 +12,19 @@
 <a href="https://calendly.com/rei-rm" target="_blank"><img src="https://img.shields.io/badge/Calendly-222222.svg?&style=for-the-badge&logo=calendly&logoColor=006BFF" alt="Calendly"></a>
 </p>
 
-## About mes
+## About me
 
 I'm Rei, a <a href="https://www.ideou.com/blogs/inspiration/how-to-build-a-better-business-through-design#:~:text=Business%20design%20is%20a%20way,the%20consumer%20and%20client%20experience." target="_blank">business designer</a>, software engineer, and product led, constantly building, shipping, and growing digital products, cloud infrastructure, and modern applications. I specialize in creating scalable, high-performance systems, and building profitable businesses around them.
 
-Although for the past few years I've spent more time in solutions engineering, product and strategy, I still love and do hands-on programming, particularly building complex business logic, quick prototypes and POCs, trying out new technologies, and tinkering with personal projects.
+For the past few years, I've spent more time in solutions engineering, product, and strategy, I still love and do hands-on programming, particularly building complex business logic, quick prototypes, POCs, trying out new technologies, and tinkering with personal projects.
 
 ## <!-- I'm a software engineer and a [Google Developer Expert](https://developers.google.com/experts/people/rei-yang) based in San Francisco, CA. -->
 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="34" height="24" viewBox="0 0 24 24" fill="none" stroke="#8d96a0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-pocket-knife"><path d="M3 2v1c0 1 2 1 2 2S3 6 3 7s2 1 2 2-2 1-2 2 2 1 2 2"/><path d="M18 6h.01"/><path d="M6 18h.01"/><path d="M20.83 8.83a4 4 0 0 0-5.66-5.66l-12 12a4 4 0 1 0 5.66 5.66Z"/><path d="M18 11.66V22a4 4 0 0 0 4-4V6"/></svg> Tools
 
-I'm technology agnostic, and a firm believer of "using the right tool for the job", so I don't have a particular bias for any particular language or framework. Instead I like trying things out, and constantly be building something to keep my foundations strong, my skills relevant, and my muscle memory sharp.
+I'm technology agnostic, and a firm believer in "using the right tool for the job", so I don't have a particular bias for any specific language or framework. Instead, I like trying things out, and constantly be building something to keep my foundations strong, my skills relevant, and my muscle memory sharp.
 
-Here's a list some the tools I like to use:
+Here's a list of some of the tools I like to use:
 
 |                                                                                                                | <img src="https://raw.githubusercontent.com/hellorei/hellorei/main/assets/table-normally.svg" alt="Normally">                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | <img src="https://raw.githubusercontent.com/hellorei/hellorei/main/assets/table-occasionally.svg" alt="Occasionally">                                                                                                                                                                                                                                                                                                                              |
 | :------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,34 +36,34 @@ Here's a list some the tools I like to use:
 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="34" height="24" viewBox="0 0 24 24" fill="none" stroke="#8d96a0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-star"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg> Projects
 
-My work consist primarily of technical consulting including technology strategy, architecture, and adoption, or product strategy and development.
+My work consists primarily of technical consulting including technology strategy, architecture, and adoption, or product strategy and development.
 
-I've helped organizations across various industries to envision, build, and launch products and businesses in more than 30 countries. I've worked with startups, the public sector, and F1000 companies, including Mondelez, Harley Davidson, Otter Home, and others, ranging from zero to millions of users, some of them making significant business impact.
+I've helped organizations across various industries to envision, build, and launch products and businesses in more than 30 countries. I've worked with startups, the public sector, and F1000 companies, including Mondelez, Harley Davidson, Otter Home, and others, ranging from zero to millions of users, with many making a significant business impact.
 
 | Project                   | Description                                                                                                                                                                    | Role                  |
 | :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- |
 | [Showy](https://showy.tv) | Showy is an AI-powered production management platform for content creators and broadcasters.                                                                                   | Co-founder            |
 | [Guiso](https://guiso.io) | A customizable end-to-end framework for building high-performance, containerized applications, using Go, HTMX, Templ, Tailwind, and Terraform.                                 | Creator               |
-| Jars                      | A mobile app to save money, track financial goals                                                                                                                              | Personal              |
-| Social Impact             | I've collaborated with Amnesty International and other non-profits to build a platforms to help them raise awareness, secure their infrastructure, and funds for their causes. | Solutions Engineering |
+| Jars                      | A mobile app to save money and track financial goals                                                                                                                              | Personal              |
+| Social Impact             | I've collaborated with Amnesty International and other non-profits to build platforms to help them raise awareness, secure their infrastructure, and raise funds for their causes. | Solutions Engineering |
 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="34" height="24" viewBox="0 0 24 24" fill="none" stroke="#8d96a0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-user-round"><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/></svg> FAQs
 
 <details>
-<summary>What editor do you use?</summary>
+<summary>What is that editor?</summary>
 
-> I don't mind using Vim ([LazyVim](https://www.lazyvim.org/)) or [VSCode](https://code.visualstudio.com/), although both are heavily customized. That said, I found myself using [Zed](https://zed.dev/) in Vim mode as my primary editor more recently.
+> I get this question often when using [NeoVim](https://neovim.io/), but I use different ones depending on the project and the mood. When I work on large codebases or closer to the terminal I prefer NeoVim, but when I need to collaborate or teach I mostly use [VSCode](https://code.visualstudio.com/) since it's more approachable for most people (or less scary). Recently, I found myself using [Zed](https://zed.dev/) in Vim mode as my primary editor. All my editors are heavily customized to be as similar to each other in a way. Use whatever you are comfortable with (except your mouse).
 
 </details>
 
 <details>
 <summary>How do you keep up with new technologies?</summary>
 
-> My job requires me to continuously compare and learn about different companies, markets, and operations, and then to adopt technologies suitable for the case. Think of it as a chef getting fresh ingredients every day to perfect their recipes, Just as a chef experiments with different ingredients to perfect their recipes, I experiment with new technologies to find the best fit tackle specific challenges. This process of constant research and development keeps me engaged with new technologies, and is more of a habit than a task.
+> My job requires me to continuously compare and learn about different companies, markets, and operations, then adopt and implement technologies suitable for the case. Think of it as a chef getting fresh ingredients every day, and trying different combinations to perfect their recipes, I experiment with new technologies to find the best fit to tackle specific challenges. This continuous research and development keeps me engaged with different technologies and applications, which after years has become more of a habit than a task.
 
-> **Professionally:** When considering a technology stack or tool for a project, I build rapid prototypes or proof-of-concepts to test and validate, then iterate or move to the next stage.
+> **Professionally:** When considering a technology stack or tool for a project, I build rapid prototypes or proofs-of-concept to test and validate, then iterate or move to the next stage.
 
-> **Personally:** If a new tech gets my attention, I try to build something with it in my spare time, allowing me to experience it firsthand and figure out its potential applications.
+> **Personally:** If a new tech gets my attention, I try to build something with it in my spare time, allowing me to experience it firsthand and figure out its potential applications and pain points.
 
 </details>
 
@@ -103,21 +103,21 @@ function hateOrLoveJavaScriptAndTypeScript() {
 <details>
 <summary>Take on Serverless</summary>
 
-> It's great in certain scenarios, but for the most part I'd advice to go `serverlessless`.
+> It's great in certain scenarios, but for the most part, I prefer a `serverless-less` managed infrastructure.
 
 </details>
 
 <details>
 <summary>Things you like outside of work</summary>
 
-> When I'm not behind a screen, you'll find me enjoying time with my family, planning my next trip, or toying at my studio with electronics or powertools. I also like hiking, bouldering, and playing basketball time to time.
+> When I'm not behind a screen, you'll find me enjoying time with my family, planning my next trip, or toying at my studio with electronics or power tools. I also like hiking, bouldering, and playing basketball occasionally.
 
 </details>
 
 <details>
 <summary>Fun fact about you</summary>
 
-> - I've been nicknamed "Rei-I" more than once—by people who've never met each other, now many colleaguses make fun of me for it. I guess that is better than being called a lizzard.
+> - I've been nicknamed "Rei-I" more than once—by people who've never met each other, and now many colleagues make fun of me for it. I guess that is better than being called a lizard.
 > - In a parallel universe, I'm likely a chef. I love cooking and my kitchen is as pimped as my `~/.config/nvim/lua`.
 
 </details>
@@ -125,7 +125,7 @@ function hateOrLoveJavaScriptAndTypeScript() {
 <details>
 <summary>Are you active on social media?</summary>
 
-> For a long time I had Social Media paranoia for security reasons but I've been more open to it recently, still I don't have the habit of posting but I'm considering of building something to assist me in this regard.
+> For a long time I had Social Media paranoia for security reasons but I've been more open to it recently, still, I don't have the habit of posting but I'm considering building something to assist me in this regard.
 
 </details>
 
@@ -137,8 +137,9 @@ Feel free to check on my <a href="https://calendly.com/rei-rm" target="_blank">c
 
 These are some of the things I'm interested in:
 
-- Startups and tech companies
-- Collaborating open source projects and tech content creators
+- Helping startups and tech companies
+- R&D and technology productization
+- Collaborating with open-source projects and tech content creators
 - Supporting social tech and non-profit initiatives
 - Participating in tech meetups, conferences, and events
 
