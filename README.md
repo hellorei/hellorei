@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.hellorei.com" target="_blank"><img src="https://img.shields.io/badge/web-222222.svg?&style=for-the-badge&logo=htmx&logoColor=white" alt="HelloRei"></a>
-<a href="https://www.startupschool.org/cofounder-matching/candidate/AUJ5W3Nlp" target="_blank"><img src="https://img.shields.io/badge/Y%20Combinator-222222.svg?&style=for-the-badge&logo=ycombinator&logoColor=F0652F" alt="Y Combinator"></a>
+<a href="https://www.startupschool.org/cofounder-matching/candidate/AUJ5W3Nlp" target="_blank"><img src="https://img.shields.io/badge/YC-222222.svg?&style=for-the-badge&logo=ycombinator&logoColor=F0652F" alt="Y Combinator"></a>
 <a href="https://www.linkedin.com/in/reiromero/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-222222?logo=linkedin-white&logoColor=0077B5&style=for-the-badge" alt="linkedin.com/in/reiromero/"></a>
 <a href="https://gitlab.com/rei3" target="_blank"><img src="https://img.shields.io/badge/GitLab-222222.svg?&style=for-the-badge&logo=gitlab&logoColor=FCA121" alt="GitLab"></a>
 <a href="https://www.twitter.com/Rei_R" target="_blank"><img src="https://img.shields.io/badge/X-222222.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
